@@ -1,3 +1,2 @@
-AKIAJ4ULG2WRILUOK4PA
-
-48mumQIruhJ2u/vu6/rkzPbm3NZ4TnCIQjuVjH+3
+$accesskey = "AKIAJZLBO2LXIQDUV7AQ"
+$secretkey = "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"
